@@ -1,4 +1,3 @@
-
 # Rainbow-Poet
 
 This is a poem about me 
